@@ -1,4 +1,4 @@
-const ApiError = require("../api-error");
+const ApiError = require("../api-error").default;
 const ContactService = require("../services/contact.service");
 const MongoDB = require("../utils/mongodb.util");
 
