@@ -1,4 +1,4 @@
-# Logs
+#Logs
 logs
 *.log
 npm-debug.log*
@@ -121,6 +121,8 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+
+node_modules
 
 # yarn v2
 .yarn/cache
